@@ -1,0 +1,10 @@
+C:\Users\nicolas.mssilva1\source\repos\ListaDeVerificacao\ListaDeVerificacao\bin\Debug\ListaDeVerificacao.exe.config
+C:\Users\nicolas.mssilva1\source\repos\ListaDeVerificacao\ListaDeVerificacao\bin\Debug\ListaDeVerificacao.exe
+C:\Users\nicolas.mssilva1\source\repos\ListaDeVerificacao\ListaDeVerificacao\bin\Debug\ListaDeVerificacao.pdb
+C:\Users\nicolas.mssilva1\source\repos\ListaDeVerificacao\ListaDeVerificacao\obj\Debug\ListaDeVerificacao.csproj.AssemblyReference.cache
+C:\Users\nicolas.mssilva1\source\repos\ListaDeVerificacao\ListaDeVerificacao\obj\Debug\ListaDeVerificacao.Form1.resources
+C:\Users\nicolas.mssilva1\source\repos\ListaDeVerificacao\ListaDeVerificacao\obj\Debug\ListaDeVerificacao.Properties.Resources.resources
+C:\Users\nicolas.mssilva1\source\repos\ListaDeVerificacao\ListaDeVerificacao\obj\Debug\ListaDeVerificacao.csproj.GenerateResource.cache
+C:\Users\nicolas.mssilva1\source\repos\ListaDeVerificacao\ListaDeVerificacao\obj\Debug\ListaDeVerificacao.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.mssilva1\source\repos\ListaDeVerificacao\ListaDeVerificacao\obj\Debug\ListaDeVerificacao.exe
+C:\Users\nicolas.mssilva1\source\repos\ListaDeVerificacao\ListaDeVerificacao\obj\Debug\ListaDeVerificacao.pdb
