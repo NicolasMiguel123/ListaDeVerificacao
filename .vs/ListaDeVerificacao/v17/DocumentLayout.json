@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaDeVerificacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30EF127E-D6EF-4413-B835-5EC1CEF8C80A}|ListaDeVerificacao\\ListaDeVerificacao.csproj|c:\\users\\nicolas.mssilva1\\source\\repos\\listadeverificacao\\listadeverificacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30EF127E-D6EF-4413-B835-5EC1CEF8C80A}|ListaDeVerificacao\\ListaDeVerificacao.csproj|solutionrelative:listadeverificacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30EF127E-D6EF-4413-B835-5EC1CEF8C80A}|ListaDeVerificacao\\ListaDeVerificacao.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaDeVerificacao\\listadeverificacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30EF127E-D6EF-4413-B835-5EC1CEF8C80A}|ListaDeVerificacao\\ListaDeVerificacao.csproj|solutionrelative:listadeverificacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EF127E-D6EF-4413-B835-5EC1CEF8C80A}|ListaDeVerificacao\\ListaDeVerificacao.csproj|c:\\users\\nicolas.mssilva1\\source\\repos\\listadeverificacao\\listadeverificacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EF127E-D6EF-4413-B835-5EC1CEF8C80A}|ListaDeVerificacao\\ListaDeVerificacao.csproj|solutionrelative:listadeverificacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30EF127E-D6EF-4413-B835-5EC1CEF8C80A}|ListaDeVerificacao\\ListaDeVerificacao.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaDeVerificacao\\listadeverificacao\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaDeVerificacao\\ListaDeVerificacao\\Form1.cs",
               "RelativeDocumentMoniker": "ListaDeVerificacao\\Form1.cs",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\ListaDeVerificacao\\ListaDeVerificacao\\Form1.cs",
               "RelativeDocumentMoniker": "ListaDeVerificacao\\Form1.cs",
